@@ -10,6 +10,6 @@
 0604 : 💤    
 0605 : 함수 & 자료형   
 0606 : 리스트
-
+0607 : for반복문
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
