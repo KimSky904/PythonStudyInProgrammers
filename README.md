@@ -9,6 +9,7 @@
 0603 : 조건문   
 0604 : 💤    
 0605 : 함수 & 자료형   
+0606 : 리스트
 
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
