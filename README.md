@@ -9,7 +9,9 @@
 0603 : 조건문   
 0604 : 💤    
 0605 : 함수 & 자료형   
-0606 : 리스트
-0607 : for반복문
+0606 : 리스트     
+0607 : for반복문     
+0608 : module 사용 & 정의, url연동     
+0609 : module 활용(random, datetime)
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
