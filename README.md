@@ -16,5 +16,6 @@
 0608 : module 사용 & 정의, url연동     
 0609 : module 활용(random, datetime)     
 0610 : Dictionary 생성    
+0611 : Dictionary 수정 / loop 활용 / List와 Dict    
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
