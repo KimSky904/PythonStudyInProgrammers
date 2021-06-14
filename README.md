@@ -19,5 +19,6 @@
 0611 : Dictionary 수정 / loop 활용 / List와 Dict    
 0612 : Tuple / packing,unpacking       
 0613 : 😷     
+0614 : while / break,continue     
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
