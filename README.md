@@ -20,8 +20,9 @@
 0612 : Tuple / packing,unpacking       
 0613 : 😷     
 0614 : while / break,continue     
-0615 : 🏫[수행,[STAC]]    
+0615 : 🏫[STAC]    
 0616 : 🏫[STAC]     
 0617 : 🏫[STAC]     
+0618 : 🏫[STAC]      
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
