@@ -2,7 +2,7 @@
 파이썬 입문
 
 2021.06.01 ~    
-2021.06.30 까지 완료 예정   
+2021.07.30 까지 완료 목표   
 
 
 ☁️☁️☁️☁️☁️☁️      
@@ -25,5 +25,6 @@
 0617 : 🏫[STAC]     
 0618 : 🏫[STAC]      
 0618 : 🏫[STAC]    
+0618 : 🏫[IT SHOW] 
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
