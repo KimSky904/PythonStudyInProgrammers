@@ -24,7 +24,8 @@
 0616 : 🏫[STAC]     
 0617 : 🏫[STAC]     
 0618 : 🏫[STAC]      
-0618 : 🏫[STAC]    
-0619 : 🏫[IT SHOW] 
+0619 : 🏫[STAC]    
+0620 : 🏫[IT SHOW]       
+0621 : 🏫[IT SHOW]       
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
