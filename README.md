@@ -18,7 +18,7 @@
 0610 : Dictionary 생성    
 0611 : Dictionary 수정 / loop 활용 / List와 Dict    
 0612 : Tuple / packing,unpacking       
-0613 : 😷     
+0613 : 💤     
 0614 : while / break,continue     
 0615 : 🏫[STAC]    
 0616 : 🏫[STAC]     
@@ -28,6 +28,7 @@
 0620 : 🏫[IT SHOW]       
 0621 : 🏫[IT SHOW]       
 0622 : 🏫[IT SHOW]      
-0623 : 🏫[IT SHOW]      
+0623 : 🏫[IT SHOW]     
+0624 : 💤      
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
