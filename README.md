@@ -29,6 +29,6 @@
 0621 : 🏫[IT SHOW]       
 0622 : 🏫[IT SHOW]      
 0623 : 🏫[IT SHOW]     
-0624 ~ 0628 : 🏫[HAKERTON]
+0624 ~ 0629 : 🏫[HAKERTON]
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
