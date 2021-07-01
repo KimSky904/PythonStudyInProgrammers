@@ -20,7 +20,8 @@
 0612 : Tuple / packing,unpacking       
 0613 : 💤     
 0614 : while / break,continue     
-0615 ~ 0630 : 🏫[STAC/IT SHOW/HAKERTON/Test]    
+0615 ~ 0630 : 🏫[STAC/IT SHOW/HAKERTON/Test]   
+0701 : ,,     
 
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
