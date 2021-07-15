@@ -21,7 +21,8 @@
 0613 : -     
 0614 : while / break,continue     
      
-0715 : 복습
+0715 : 복습[언어개념 / 정수형 / 문자형]
+
 
 
 [Programmers Python](https://programmers.co.kr/learn/courses/2)
